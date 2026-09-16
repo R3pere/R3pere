@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2DE2E6,42:00AEEF,100:1739D6&height=210&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20EthanZ&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%40%20USTC&descSize=18&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:24E7EA,28:10CFEA,58:078CE5,82:0757D8,100:092DBD&height=210&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20EthanZ&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%40%20USTC&descSize=18&descAlignY=58&animation=fadeIn)
 
 <samp>Always learning, always building.</samp>
 
@@ -26,7 +26,7 @@
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-R3pere-1739D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R3pere)
-[![Email](https://img.shields.io/badge/Email-ethan.z%40mail.ustc.edu.cn-00AEEF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethan.z@mail.ustc.edu.cn)
+[![ethan.z@mail.ustc.edu.cn](https://img.shields.io/badge/email-ethan.z%40mail.ustc.edu.cn-00AEEF?style=flat-square&logo=gmail&logoColor=white)](mailto:ethan.z@mail.ustc.edu.cn)
 
 ---
 
@@ -59,11 +59,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R3pere/R3pere/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R3pere/R3pere/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/R3pere/R3pere/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R3pere/R3pere/output/github-contribution-grid-snake-p3r-blue-v2-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R3pere/R3pere/output/github-contribution-grid-snake-p3r-blue-v2.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/R3pere/R3pere/output/github-contribution-grid-snake-p3r-blue-v2.svg" />
 </picture>
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1739D6,58:00AEEF,100:2DE2E6&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:092DBD,25:0757D8,55:078CE5,78:10CFEA,100:24E7EA&height=100&section=footer)
